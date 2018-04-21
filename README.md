@@ -1,28 +1,9 @@
-# Made in Iran
+# Eligasht Service Status
 
-> A list of neat projects made in Iran.
 
-If you want to contribute, note that you should only update `data.json`.
+Total runs -->500
 
-## Contents
- - [JavaScript](#javascript)
- - [CSS](#css)
- - [Boilerplates](#boilerplates)
- - [Python](#python)
- - [PHP](#php)
- - [Ruby](#ruby)
- - [Go](#go)
- - [Rust](#rust)
- - [Android](#android)
- - [Erlang](#erlang)
- - [Haskell](#haskell)
- - [C++](#cpp)
- - [C](#c)
- - [C#](#c#)
- - [Lua](#lua)
- - [Swift](#swift)
- - [Font](#font)
- - [Other](#other)
+
 
 
 
