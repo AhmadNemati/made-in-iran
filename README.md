@@ -6,7 +6,7 @@
 <h3><a name="Flight"></a>JavaScript</h3>
 
  Name | Service | Total Run | 🌍 
---- | --- | --- | --- 
+--- | --- | --- | ---| --- 
 GetAirportWithParentsWithCulture | Common/StaticDataService.svc/GetAirportWithParentsWithCulture | 300 | [:arrow_upper_right:](http://introjs.com)
 4267 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
 1240 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
