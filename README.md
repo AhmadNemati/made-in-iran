@@ -28,7 +28,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 <h3><a name="javascript"></a>JavaScript</h3>
 
-:star2: | Name | Description | 🌍
+:star2: | Name | Description | 🌍 | 🌍
 --- | --- | --- | ---
 16521 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
 4267 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
