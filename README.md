@@ -6,7 +6,7 @@
 
 <h3><a name="ruby"></a>Ruby</h3>
 
-:star2: | Name | Total Run | Status
+ Name | Total Run | Status | :star2:
 --- | --- | --- | ---
 GetAirportWithParentsWithCulture | 253 | :x: | 
 
