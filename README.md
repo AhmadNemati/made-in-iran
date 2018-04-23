@@ -46,6 +46,3 @@ Common/StaticDataService.svc/MobileAppStartupService | unable to connect to data
 Common/StaticDataService.svc/MobileAppStartupService | unable to connect to database | 900 ms | 200 | 253 | :white_check_mark: | [:arrow_upper_right:](https://gitlab.com/nemati/eli/issues/1)
 Common/StaticDataService.svc/MobileAppStartupService | unable to connect to database | 900 ms | 200 | 253 | :white_check_mark: | [:arrow_upper_right:](https://gitlab.com/nemati/eli/issues/1)
 Common/StaticDataService.svc/MobileAppStartupService | unable to connect to database | 900 ms | 200 | 253 | :white_check_mark: | [:arrow_upper_right:](https://gitlab.com/nemati/eli/issues/1)
-
-
-
